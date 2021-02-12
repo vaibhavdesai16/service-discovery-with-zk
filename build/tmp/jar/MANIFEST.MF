@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: zookeeper-3.6.2.jar commons-lang-2.6.jar zookeeper-jute-3.
+ 6.2.jar audience-annotations-0.5.0.jar netty-handler-4.1.50.Final.jar
+  netty-transport-native-epoll-4.1.50.Final.jar slf4j-api-1.7.25.jar s
+ lf4j-log4j12-1.7.25.jar log4j-1.2.17.jar netty-codec-4.1.50.Final.jar
+  netty-transport-native-unix-common-4.1.50.Final.jar netty-transport-
+ 4.1.50.Final.jar netty-resolver-4.1.50.Final.jar netty-buffer-4.1.50.
+ Final.jar netty-common-4.1.50.Final.jar
+Main-Class: com.sysx.App
+
